@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Del%20Nero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pdelnero/)](https://www.linkedin.com/in/pdelnero/)
+[![Mail Badge](https://img.shields.io/badge/-pedr.delnero@gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:pedr.delnero@gmail.com)](mailto:raul@piraces.dev)
+<!-- <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a> -->
 
-<!--
-**pedrodelnero/pedrodelnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Pedro Del Nero
 
-Here are some ideas to get you started:
+- 💻 I’m looking  for a junior level back end developer position (NodeJS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm constantly learning and creating my own personal projects.
+
+-  🥑🥞🌮 I love eating tacos, and everything else.
+
+
