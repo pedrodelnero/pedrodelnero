@@ -5,7 +5,7 @@
 
 ### I am Pedro Del Nero
 
-- 💻 I’m looking  for a junior level back end developer position (NodeJS)
+- 💻 I’m looking  for a junior level Back-end (NodeJS) or Front-end (ReactJS) position.
 
 - 🌱 I'm constantly learning and creating my own personal projects.
 
