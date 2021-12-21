@@ -5,8 +5,6 @@
 
 ### I am Pedro Del Nero
 
-- 💻 I’m looking  for a junior level Back-end (NodeJS) or Front-end (ReactJS) position.
-
 - 🌱 I'm constantly learning and creating my own personal projects.
 
 -  🥑🥞🌮 I love eating tacos, and everything else.
