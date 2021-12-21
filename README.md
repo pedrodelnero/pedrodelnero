@@ -5,7 +5,7 @@
 
 ### I am Pedro Del Nero
 
-- 🌱 I'm constantly learning and creating my own personal projects.
+- 🌱 I'm constantly learning.
 
 -  🥑🥞🌮 I love eating tacos, and everything else.
 
